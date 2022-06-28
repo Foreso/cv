@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="images/Profile.png" alt="Profile Picture"></td>
+      <td><img src="/images/Profile.png" alt="Profile Picture"></td>
       <td>
         <h1>Kelvin Gonzalez</h1>
         <p><em>
