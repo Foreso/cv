@@ -9,8 +9,8 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="/images/Profile.png" alt="Profile Picture"></td>
-      <td>https://github.com/Foreso/cv/blob/main/index.html
+      <td><img src="images/Profile.png" alt="Profile Picture"></td>
+      <td>
         <h1>Kelvin Gonzalez</h1>
         <p><em>
             Beginner programmer and aspiring <strong>Software developer.</strong></em>
